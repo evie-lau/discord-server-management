@@ -17,8 +17,10 @@
     }
 
     .noIcon-1a_FrS.iconSizeLarge-161qtT {
-        line-height: 88px;
-        vertical-align: top;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        vertical-align: bottom;
     }
 
     /* Remove download and search buttons */
