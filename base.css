@@ -12,13 +12,10 @@
 
     /* Server divs */
     .container-2td-dC,
-	.dragPlaceholder-D9-haY {
+    .dragPlaceholder-D9-haY,
+	.guildsErrorContainer-2uWYsE {
         display: inline-flex;
         margin-left: 30px;
-    }
-
-    .noIcon-1a_FrS.iconSizeLarge-161qtT {
-        display: inline-flex;
         justify-content: center;
         align-items: center;
         vertical-align: bottom;
