@@ -11,8 +11,9 @@
     }
 
     /* Server divs */
-    .container-2td-dC {
-        display: inline-block;
+    .container-2td-dC,
+	.dragPlaceholder-D9-haY {
+        display: inline-flex;
         margin-left: 30px;
     }
 
