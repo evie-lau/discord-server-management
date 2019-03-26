@@ -1,0 +1,29 @@
+@-moz-document domain("discordapp.com") {
+
+    /* Left-side column */
+    .wrapper-1Rf91z {
+        width: 24%;
+    }
+
+    /* Left-side column content */
+    .scrollerWrap-1IAIlv {
+        width: 100%;
+    }
+
+    /* Server divs */
+    .container-2td-dC {
+        display: inline-block;
+        margin-left: 30px;
+    }
+
+    .noIcon-1a_FrS.iconSizeLarge-161qtT {
+        line-height: 88px;
+        vertical-align: top;
+    }
+
+    /* Remove download and search buttons */
+    .downloadAppButton-3FZHkU,
+    .container-11WMXy {
+        display: none;
+    }
+}
